@@ -32,3 +32,12 @@ h1
     justify-content: center;
     display: flex;
 }
+
+button
+{
+    height: 40px;
+    width: 200px;
+    border-radius: 2rem;
+    background-color: rgb(255, 36, 36);
+    color: white;
+}
