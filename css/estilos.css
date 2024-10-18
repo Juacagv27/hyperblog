@@ -12,6 +12,16 @@ h1
     color: rgb(0, 119, 255);
 }
 
+#cabecera
+{
+    height: 40px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 64, 64);
+    color: white;
+    margin: auto 18rem;
+}
+
 .caja
 {
     margin: 20px;
